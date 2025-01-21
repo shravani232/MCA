@@ -1,7 +1,5 @@
-<<<<<<< HEAD
+
 i am trial 1
 tested ...ok 
-=======
-i am trial 4
-tested..ok
->>>>>>> 977d59ec2b792217e744062390e3ae0ea146b3a3
+without merging 
+
